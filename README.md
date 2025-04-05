@@ -1,3 +1,4 @@
+<h1>BUS RESERVATION SYSTEM</h1>
 This is a simple Bus Reservation System written in C. It allows users to:
 - Reserve a Ticket
 - View Reservations
